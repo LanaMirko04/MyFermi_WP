@@ -6,7 +6,8 @@ MyFermi's WordPress theme
 | Status | Name |
 | --- | --- |
 | ❌ | `responsive` |
-| ❌ | `custom menu (offcanvas)` |
+| ❌ | `full-page menu` |
+| ❌ | `custom logo` |
 
 ## Wordpress functionality
 
